@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rexskth](https://github.com/Rexskth)
 
-- 📝 I regularly push Leetcode Solutions in [https://github.com/Shauryaa007/POTD-GFG](https://github.com/Shauryaa007/POTD-GFG)
+<!-- - 📝 I regularly push Leetcode Solutions in [https://github.com/Shauryaa007/POTD-GFG](https://github.com/Shauryaa007/POTD-GFG) -->
 
 - 💬 Ask me about **React-Js,DSA,CP**
 
