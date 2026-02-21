@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Brajendra</h1>
-<h3 align="center">I am Final year BTech student pursuing from NIT Agartala.</h3>
+<h3 align="center">AI guy, having experience of working in fast paced startup and currently working as Digital Specialist Engineer in Infosys.</h3>
 <img align="right" alt="shauryaawasthi" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryaa007&label=Profile%20views&color=0e75b6&style=flat" alt="shauryaa007" /> </p>
