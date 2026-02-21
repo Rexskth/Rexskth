@@ -10,9 +10,7 @@
 
 - 📝 I regularly push Leetcode Solutions in [https://github.com/Rexskth/leetcode](https://github.com/Rexskth/leetcode)
 
-- 💬 Ask me about **React-Js,DSA,CP**
-
-- 📫 How to reach me **brajendrakaurav472@gmail.com**
+- 📫 How to reach me **brajendra.nita.work@gmail.com**
 
 - 📄 [Know about my experiences](https://rexskth.github.io/bk-portfolio/)
 
