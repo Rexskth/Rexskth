@@ -46,11 +46,30 @@ Email
 
 ## 🛠️ Tech Stack
 
-### Languages
+## 🛠️ Tech Stack
+
+### AI & Developer Tools
+![MCP Servers](https://img.shields.io/badge/-MCP%20Servers-black?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-black?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/-LangGraph-black?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/-Cursor-black?style=for-the-badge)
+![Codex](https://img.shields.io/badge/-Codex-black?style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
+
+### Languages & Technologies
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
@@ -59,35 +78,18 @@ Email
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
 
-### Backend & Databases
+
+### Backend, APIs & Databases
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-black?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/-API%20Integration-black?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 ![Oracle](https://img.shields.io/badge/-Oracle-black?style=for-the-badge&logo=oracle)
 
-### AI & Tools
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
-![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 
 ---
 
-## 📌 Featured Projects
-
-### 🤖 AI Job Search Agent
-An AI-powered job discovery and application assistant for startup platforms like YC.
-
-### 🧠 AlgoPaths
-Interactive pathfinding visualizer to understand graph algorithms visually.
-
-### 📊 CodeStats
-A coding analytics platform to track competitive programming progress.
-
-### 🎵 Audio Cutter Tool
-Built using Next.js with serverless architecture for audio trimming and editing.
-
----
 
 ## 📈 Coding Profiles
 
