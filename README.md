@@ -46,8 +46,6 @@ Email
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ### AI & Developer Tools
 ![MCP Servers](https://img.shields.io/badge/-MCP%20Servers-black?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-black?style=for-the-badge)
