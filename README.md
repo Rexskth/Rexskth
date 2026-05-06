@@ -1,38 +1,123 @@
+<h1 align="center">Hey 👋, I'm Brajendra Singh Kaurav</h1>
 
+<h3 align="center">
+AI Software Engineer • Full Stack Developer • Problem Solver
+</h3>
 
-<h1 align="center">Hi 👋, I'm Brajendra</h1>
-<h3 align="center">AI Software Engineer, having experience of working in fast paced startup and currently working as Digital Specialist Engineer in Infosys.</h3>
-<img align="right" alt="shauryaawasthi" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryaa007&label=Profile%20views&color=0e75b6&style=flat" alt="shauryaa007" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/Rexskth](https://github.com/Rexskth)
-
-- 📝 I regularly push Leetcode Solutions in [https://github.com/Rexskth/leetcode](https://github.com/Rexskth/leetcode)
-
-- 📫 How to reach me **brajendra.nita.work@gmail.com**
-
-- 📄 [Know about my experiences](https://rexskth.github.io/bk-portfolio/)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/Brajendra_SK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/brajendrasinghkaurav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/thegiant_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a> -->
-<!-- <a href="https://www.youtube.com/c/quick review" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="30" width="40" /></a> -->
-<a href="https://www.codechef.com/users/rexsk_th" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Codechef" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerrank.com/shauryaa007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" /></a> -->
-<a href="https://leetcode.com/u/brajendrakaurav472/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/brajendrakaurav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
-<!-- <a href="https://discord.gg/1179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a> -->
+<p align="center">
+Currently working as a Digital Specialist Engineer at Infosys <br/>
+Passionate about AI Agents, Full Stack Development, System Design, and Developer Tools
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rexskth&show_icons=true&locale=en&layout=compact" alt="rexskth" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rexskth&show_icons=true&locale=en" alt="rexskth" /></p>
+- 💼 Working as a **Digital Specialist Engineer at Infosys**
+- 🤖 Exploring **AI Agents, LLM Applications, MCP Servers, and Automation**
+- 🌐 Building scalable **Full Stack Applications**
+- 🧠 Solved **1000+ DSA problems** across coding platforms
+- 📚 Regularly practicing on **LeetCode & Codeforces**
+- 🚀 Interested in startups, developer tooling, and AI-first products
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rexskth&" alt="rexskth" /></p>
+---
+
+## 🔗 Portfolio & Profiles
+
+<p align="left">
+<a href="https://rexskth.github.io/bk-portfolio/" target="_blank">
+Portfolio
+</a> •
+<a href="https://github.com/Rexskth" target="_blank">
+GitHub
+</a> •
+<a href="https://www.linkedin.com/in/brajendrasinghkaurav/" target="_blank">
+LinkedIn
+</a> •
+<a href="https://x.com/Brajendra_SK" target="_blank">
+Twitter/X
+</a> •
+<a href="mailto:brajendra.nita.work@gmail.com">
+Email
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+![Oracle](https://img.shields.io/badge/-Oracle-black?style=for-the-badge&logo=oracle)
+
+### AI & Tools
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Job Search Agent
+An AI-powered job discovery and application assistant for startup platforms like YC.
+
+### 🧠 AlgoPaths
+Interactive pathfinding visualizer to understand graph algorithms visually.
+
+### 📊 CodeStats
+A coding analytics platform to track competitive programming progress.
+
+### 🎵 Audio Cutter Tool
+Built using Next.js with serverless architecture for audio trimming and editing.
+
+---
+
+## 📈 Coding Profiles
+
+<p align="left">
+<a href="https://leetcode.com/u/brajendrakaurav472/" target="_blank">LeetCode</a> •
+<a href="https://www.codechef.com/users/rexsk_th" target="_blank">CodeChef</a> •
+<a href="https://www.geeksforgeeks.org/user/brajendrakaurav/" target="_blank">GeeksforGeeks</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rexskth&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rexskth&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rexskth&theme=tokyonight"/>
+</p>
+
+---
+
+## ✨ Fun Fact
+
+I enjoy building developer tools, AI-powered applications, and solving complex problems with clean and scalable solutions.
+
+---
+
+<p align="center">
+⭐️ From <a href="https://github.com/Rexskth">Brajendra Singh Kaurav</a>
+</p>
