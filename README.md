@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Brajendra Singh Kaurav</h1>
 
 <h3 align="center">
-AI Software Engineer • Full Stack Developer • Problem Solver
+AI Engineer • Full Stack Developer • Software Engineer
 </h3>
 
 <p align="center">
